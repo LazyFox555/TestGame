@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNITY_PROJECTS\\Find3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|e:\\unity_projects\\find3\\assets\\scripts\\objectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|E:\\UNITY_PROJECTS\\Find3\\assets\\scripts\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|e:\\unity_projects\\find3\\assets\\scripts\\stackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stackcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|E:\\UNITY_PROJECTS\\Find3\\assets\\scripts\\objectsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CFF239-C0C7-48C0-3314-744503949445}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackControl.cs",
+              "DocumentMoniker": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\StackControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StackControl.cs",
+              "ToolTip": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\StackControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StackControl.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:02:56.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectControl.cs",
+              "DocumentMoniker": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\ObjectControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectControl.cs",
+              "ToolTip": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\ObjectControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:22:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameControl.cs",
+              "DocumentMoniker": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\GameControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameControl.cs",
+              "ToolTip": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\GameControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameControl.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:40:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectsSet.cs",
+              "DocumentMoniker": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\ObjectsSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectsSet.cs",
+              "ToolTip": "E:\\UNITY_PROJECTS\\Find3\\Assets\\Scripts\\ObjectsSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectsSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:22:51.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
